@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamh4x&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamh4x" /> </p>
 
-- 🔭 I’m currently working on **Weather Forecast**
+- 🔭 I’m currently learning Block-Chain Technology**
 
-- 🌱 I’m currently learning **Learning Kotlin / Android Dev loading.....**
+- 🌱 Just Practicing DSA in C++/Java **
 
 - ⚡ Fun fact **I love playing games**
 
