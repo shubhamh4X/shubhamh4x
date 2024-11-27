@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamh4x&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamh4x" /> </p>
 
-- 🔭 I’m currently learning Block-Chain Technology**
+- 🔭 ***I’m currently learning Block-Chain Technology***
 
-- 🌱 Just Practicing DSA in C++/Java **
+- 🌱 ***Just Practicing DSA in C++/Java***
 
-- ⚡ Fun fact **I love playing games**
+- ⚡ ***Fun fact I love playing games***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
