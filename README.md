@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamh4x&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamh4x" /> </p>
 
-- 🔭 ***I’m currently learning Block-Chain Technology***
+- 🔭 ***Currently Learning Ai Models and Python***
 
-- 🌱 ***Just Practicing DSA in C++/Java***
+- 🌱 ***Love to Code***
 
-- ⚡ ***Fun fact I love playing games***
+- ⚡ ***Ai Owns the Next Generation***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
