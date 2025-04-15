@@ -64,7 +64,7 @@
 
 ---
 
-### 🧧 Certifications
+### 🥤 Certifications
 - ✅ Google Certified Android Developer
 - ✅ AI & ML Specialization – Coursera
 - ✅ Certified Ethical Hacker (CEH)
