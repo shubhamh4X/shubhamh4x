@@ -16,7 +16,7 @@
 
 ---
 
-### 🎐 GitHub Trophies
+### 🏅 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubhamh4x&theme=github-dark&no-bg=true&margin-w=15&row=1" />
 </p>
@@ -48,7 +48,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🎯 Featured Projects
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
@@ -64,7 +64,7 @@
 
 ---
 
-### 🧠 Certifications
+### 🧧 Certifications
 - ✅ Google Certified Android Developer
 - ✅ AI & ML Specialization – Coursera
 - ✅ Certified Ethical Hacker (CEH)
@@ -72,13 +72,13 @@
 
 ---
 
-### 🎯 GitHub Workflow
+### ⚓ GitHub Workflow
 ![CI/CD](https://img.shields.io/badge/Deploy-GitHub%20Actions-blue?logo=githubactions&style=for-the-badge)  
 *(Set up auto-deploy workflows with CI/CD pipelines using GitHub Actions, Docker, Firebase Hosting, etc.)*
 
 ---
 
-### 🤝 Let's Connect
+### 🖇 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/shubhamh4x"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shubhamhx1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
