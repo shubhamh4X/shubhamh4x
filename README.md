@@ -72,6 +72,13 @@
 
 ---
 
+### 💻 Notable Projects
+- 🔐 **AI-Based Anti-Cheat System**
+- 🎞️ **Pinterest Video Downloader with AI Preview**
+- 🔧 **Gpt Project 5.1(Current)**
+
+---
+
 ### ⚓ GitHub Workflow
 ![CI/CD](https://img.shields.io/badge/Deploy-GitHub%20Actions-blue?logo=githubactions&style=for-the-badge)  
 *(Set up auto-deploy workflows with CI/CD pipelines using GitHub Actions, Docker, Firebase Hosting, etc.)*
