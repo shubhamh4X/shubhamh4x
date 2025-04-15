@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Das</h1>
+<h1 align="center">Hey 👋🏻, I'm Shubham Das</h1>
 <h3 align="center">🚀 Android & AI Engineer | Full Stack Developer | Google Intern</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### 🍷 Myself
 
 - 🔭 Working on **Kernel-Level Anti-Cheat**, **LLM-enhanced Android Tools**, and more.
 - 🌱 Exploring **Advanced Deep Learning**, **AI Security**, **OS Internals**
