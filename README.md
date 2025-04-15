@@ -10,8 +10,7 @@
 - 🔭 Currently Building: **Kernel-Level Anti-Cheat Systems, AI-Based Tools**
 - 🌱 Learning: **Cutting-edge AI Models, LLMs, Deep Learning**
 - 👨‍💻 Most Active Repos: [GitHub](https://github.com/shubhamh4X)
-- 💬 Ask me about: **Android, AI/ML, Cybersecurity, Reverse Engineering**
-- 📫 Email: **shubhamhx1@gmail.com**
+- 💬 Ask me about: **Android Developemt, AI/ML, Cybersecurity, Reverse Engineering**
 - ⚡ Fun Fact: **"AI owns the next generation."**
 
 ---
@@ -70,7 +69,7 @@
 ### 💻 Notable Projects
 - 🔐 **AI-Based Anti-Cheat System**
 - 🎞️ **Pinterest Video Downloader with AI Preview**
-- 🔧 **Free Fire Panel & BIOS Checker (Auto-Ban, HWID, Kernel Hooks)**
+- 🔧 **Gpt Project 5.1(Current)**
 
 ---
 
