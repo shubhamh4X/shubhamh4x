@@ -16,7 +16,7 @@
 
 ---
 
-### 🏅 GitHub Trophies
+### 🎐 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubhamh4x&theme=github-dark&no-bg=true&margin-w=15&row=1" />
 </p>
