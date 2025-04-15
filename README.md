@@ -53,7 +53,7 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | **AI Anti-Cheat** | Kernel-Level Monitoring, HWID/IP Logging, Auto-Ban, AI-Powered Detection | _Coming Soon_ |
-| **Pinterest Video Downloader** | Real-Time Preview with AI Filters & Backend Optimized | [View Project](https://github.com/shubhamh4x/Pinterest-Downloader-AI) |
+| **Pinterest Video Downloader** | Real-Time Preview with AI Filters & Backend Optimized | [View Project]([https://github.com/shubhamh4x/Pinterest-Downloader-AI](https://github.com/shubhamh4X/Pinterest-Downloader)) |
 
 ---
 
