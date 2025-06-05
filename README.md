@@ -12,7 +12,7 @@
 - 🔭 Working on **Kernel-Level Anti-Cheat**, **LLM-enhanced Android Tools**, and more.
 - 🌱 Exploring **Advanced Deep Learning**, **AI Security**, **OS Internals**
 - 💬 Ask me about: **Android Dev, Kernel Hooks, AI Systems, Reverse Engineering**
-- 🧩 Portfolio: [shubhamh4x.github.io](https://shubhamh4x.github.io) *(optional, you can enable it)*
+- 🧩 Portfolio: [shubhamh4x.github.io](https://shubhamh4x.github.io)
 
 ---
 
@@ -52,7 +52,8 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **AI Anti-Cheat** | Kernel-Level Monitoring, HWID/IP Logging, Auto-Ban, AI-Powered Detection | _Coming Soon_ |
+| **Neuro Ai** | Spiking Neural Network simulator, Brainwave pattern classifier using EEG data, Neural Architecture Search (NAS) | _Coming Soon_ |
+| **ProcSentinel** | Kernel-Level Monitoring, Flags suspicious processes, Reads memory of each process |[View Project](https://github.com/shubhamh4X/ProcSentinel) |
 | **Pinterest Video Downloader** | Real-Time Preview with AI Filters & Backend Optimized |[View Project](https://github.com/shubhamh4X/Pinterest-Downloader) |
 
 ---
