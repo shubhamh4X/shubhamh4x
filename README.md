@@ -19,23 +19,15 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamh4x&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
+![Trophy](https://github-profile-trophy.vercel.app/?username=shubhamh4x&theme=radical)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamh4x&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamh4x&show_icons=true&theme=radical)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&theme=radical)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamh4x&theme=radical)
 
 ## 🔥 GitHub Streak
 
