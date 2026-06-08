@@ -27,8 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shubhamh4x&theme=radical)
-
 ## 🔥 GitHub Streak
 
 <p align="center">
