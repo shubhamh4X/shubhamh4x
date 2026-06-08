@@ -29,14 +29,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shubhamh4x&theme=radical)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamh4x&show_icons=true&theme=radical)
-
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=shubhamh4x&theme=radical)
-
 ## 🔥 GitHub Streak
 
 <p align="center">
