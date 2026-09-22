@@ -109,9 +109,27 @@ https://github.com/shubhamh4X/Link-Shortner
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamh4X&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true">
-</p>
+<div align="center">
+
+### selected work
+
+<a href="https://github.com/shubhamh4X/FenriX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=FenriX&hide_border=true" />
+</a>
+<a href="https://github.com/shubhamh4X/ProcSentinel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=ProcSentinel&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/shubhamh4X/TaskPilot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=TaskPilot&hide_border=true" />
+</a>
+<a href="https://github.com/shubhamh4X/Budget-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=Budget-Tracker&hide_border=true" />
+</a>
+
+</div>
 
 ## 🎯 Current Direction
 
