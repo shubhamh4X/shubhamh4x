@@ -107,31 +107,7 @@ https://github.com/shubhamh4X/Link-Shortner
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-### selected work
-
-<a href="https://github.com/shubhamh4X/FenriX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=FenriX&hide_border=true" />
-</a>
-<a href="https://github.com/shubhamh4X/ProcSentinel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=ProcSentinel&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/shubhamh4X/TaskPilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=TaskPilot&hide_border=true" />
-</a>
-<a href="https://github.com/shubhamh4X/Budget-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamh4X&repo=Budget-Tracker&hide_border=true" />
-</a>
-
-</div>
-
-## 🎯 Current Direction
+## 🎯 Path
 
 ```text
 AI Engineering
