@@ -1,88 +1,195 @@
-<h1 align="center">Hey 👋, I'm Shubham Das</h1>
-<h3 align="center">🚀 Android Developer | AI Enthusiast | Full Stack Developer</h3>
+<h1 align="center">Hey, I'm Shubham Das 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamh4x&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>AI & Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  Building software across <b>AI, Backend, Web, Android & Security</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shubhamh4X">
+    <img src="https://komarev.com/ghpvc/?username=shubhamh4x&label=Profile%20Views&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Android, AI and Full Stack projects
-- 🌱 Learning Deep Learning, Generative AI, and System Design
-- 💬 Ask me about Android Development, Python, Java, AI, and Web Development
-- 📫 Reach me through LinkedIn
-- ⚡ Fun fact: I enjoy building projects that solve real-world problems
+I'm a developer who enjoys turning ideas into working software.
 
----
+My projects span from **AI-powered applications and full-stack platforms** to **Android apps and low-level security tooling**. I'm especially interested in understanding how systems work underneath the abstraction and then using that knowledge to build useful products.
 
-## 🏆 GitHub Trophies
+Currently focused on improving my skills in:
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=shubhamh4x&theme=radical)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamh4x&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamh4x&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| Neuro AI | Brainwave Pattern Classification & Neural Network Research |
-| ProcSentinel | Process Monitoring and Security Analysis Tool |
-| Pinterest Downloader | Fast Pinterest Video Downloader with Preview |
-| GPT Project | AI-powered productivity tools |
+- 🤖 AI / Machine Learning
+- ⚙️ Backend Engineering
+- 🏗️ System Design
+- 🔐 Security & Systems Programming
+- 📱 Android Development
+- 🌐 Full-Stack Development
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,javascript,typescript" />
 </p>
 
-### Development
+### Web & Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+### Android
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws,gcp" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Projects
+
+### 🤖 AI Code Generator
+AI-focused developer tool designed to generate code from natural-language input.
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/AI-Code-Generator
+
+---
+
+### 🎨 AI Image Generator
+A Next.js application for AI-powered image generation.
+
+**Stack:** Next.js
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/Ai-Image-Generator
+
+---
+
+### 🧠 TaskPilot
+AI-themed productivity platform built with a full-stack TypeScript architecture.
+
+**Stack:** React, TypeScript, Node.js, Express, MongoDB
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/TaskPilot
+
+---
+
+### 🛡️ ProcSentinel
+Windows security-analysis tool written in C++ that monitors processes, samples process memory, calculates Shannon entropy, and flags potentially suspicious behavior.
+
+**Stack:** C++, CMake, Windows
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/ProcSentinel
+
+---
+
+### 💳 Budget Tracker
+Modern Android finance application with budgeting, transaction categorization, local persistence, and financial dashboards.
+
+**Stack:** Kotlin, Jetpack Compose, Room, MVVM, Clean Architecture
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/Budget-Tracker
+
+---
+
+### 🐺 FenriX
+Discord security and management platform combining a Discord bot with a web-based management console.
+
+**Stack:** TypeScript, Discord.js, React, Vite, Express, Tailwind CSS
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/FenriX
+
+---
+
+### 🔗 Link Shortener
+URL-shortening project with support for short links, custom aliases, analytics concepts, expiration and REST APIs.
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/Link-Shortner
+
+---
+
+### ☁️ Weather Forecast
+Android weather application using a modern Compose UI and weather API integration.
+
+**Stack:** Kotlin, Jetpack Compose, Retrofit
+
+🔗 **Repository:**  
+https://github.com/shubhamh4X/WeatherForecast
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamh4x&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamh4x&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamh4x&layout=compact&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamh4x&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Current Direction
+
+```text
+AI Engineering
+      │
+      ├── Machine Learning
+      ├── Generative AI
+      ├── AI-powered Applications
+      │
+      └── Backend Engineering
+              │
+              ├── APIs
+              ├── Databases
+              ├── System Design
+              └── Scalable Services
+```
+
+I'm particularly interested in building software where **AI meets practical engineering**.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
+  <a href="https://github.com/shubhamh4X">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/shubhamh4x">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Push boundaries. Build bold. Learn continuously."</i>
+  <i>Build. Break. Learn. Improve.</i>
 </p>
