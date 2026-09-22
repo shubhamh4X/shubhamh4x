@@ -99,14 +99,6 @@ https://github.com/shubhamh4X/Link-Shortner
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamh4X&hide_border=true" width="95%">
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -114,6 +106,12 @@ https://github.com/shubhamh4X/Link-Shortner
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamh4X&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true">
+</p>
 
 ## 🎯 Current Direction
 
