@@ -71,36 +71,6 @@ https://github.com/shubhamh4X/AI-Code-Generator
 
 ---
 
-### 🎨 AI Image Generator
-A Next.js application for AI-powered image generation.
-
-**Stack:** Next.js
-
-🔗 **Repository:**  
-https://github.com/shubhamh4X/Ai-Image-Generator
-
----
-
-### 🧠 TaskPilot
-AI-themed productivity platform built with a full-stack TypeScript architecture.
-
-**Stack:** React, TypeScript, Node.js, Express, MongoDB
-
-🔗 **Repository:**  
-https://github.com/shubhamh4X/TaskPilot
-
----
-
-### 🛡️ ProcSentinel
-Windows security-analysis tool written in C++ that monitors processes, samples process memory, calculates Shannon entropy, and flags potentially suspicious behavior.
-
-**Stack:** C++, CMake, Windows
-
-🔗 **Repository:**  
-https://github.com/shubhamh4X/ProcSentinel
-
----
-
 ### 💳 Budget Tracker
 Modern Android finance application with budgeting, transaction categorization, local persistence, and financial dashboards.
 
@@ -126,16 +96,6 @@ URL-shortening project with support for short links, custom aliases, analytics c
 
 🔗 **Repository:**  
 https://github.com/shubhamh4X/Link-Shortner
-
----
-
-### ☁️ Weather Forecast
-Android weather application using a modern Compose UI and weather API integration.
-
-**Stack:** Kotlin, Jetpack Compose, Retrofit
-
-🔗 **Repository:**  
-https://github.com/shubhamh4X/WeatherForecast
 
 ---
 
