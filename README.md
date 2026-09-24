@@ -63,11 +63,11 @@ Currently focused on improving my skills in:
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Code Generator
+### 🤖 ZenX Code
 AI-focused developer tool designed to generate code from natural-language input.
 
 🔗 **Repository:**  
-https://github.com/shubhamh4X/AI-Code-Generator
+https://github.com/shubhamh4X/ZenX-Code
 
 ---
 
