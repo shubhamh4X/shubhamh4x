@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shubham Das 👋</h1>
 
 <p align="center">
-  <b>AI & Full-Stack Developer</b>
+  <b>AI Engineer & Full-Stack Developer</b>
 </p>
 
 <p align="center">
